@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/16251546/146669429-ae1dc399-cd7a-4c6e-
 
 https://user-images.githubusercontent.com/16251546/146669436-dff614aa-2ce5-46cc-8163-db73b2c2570e.mp4
 
-> <b>Note</b>: Fragment shader is based on [ARQVOID :: 240 chars](https://www.shadertoy.com/view/NscXR8/ "Check it out") [License: [CC&nbsp;BY-NC-SA&nbsp;3.0](https://www.shadertoy.com/terms "Go there"); Copyright ©️ 2021 ENDESGA]
+> <b>Note</b>: Fragment shader is based on [ARQVOID :: 240 chars](https://www.shadertoy.com/view/NscXR8/ "Check it out") [License: [CC&nbsp;BY-NC-SA&nbsp;3.0](https://www.shadertoy.com/terms "Go there"); Copyright ©️ 2021 ENDESGA & Xor]
 
 ### [mtw-canvas-blacksea](https://github.com/MyThemeWay/mtw-canvas-blacksea "Get it")
 
