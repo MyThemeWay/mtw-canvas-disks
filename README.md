@@ -60,6 +60,7 @@ https://user-images.githubusercontent.com/16251546/146669441-251d9545-0164-442b-
 ### Note on protected brand names and logos
 > * The use of protected brand names, trade names, utility models and brand logos on this website does not constitute an infringement of copyright; rather, it serves as an illustrative note. Even if this is not marked as such at the respective points, the corresponding legal provisions always apply.
 > * The brand names and logos used are the property of their respective owners and are subject to their copyright provisions.
+> * This offer is in no way related to the legal entities of the protected brand names and logos used.
 
 ### Note on liability for links
 > * This README contains links to external third-party websites. The README operator has no influence on the content of these sites. Therefore, he cannot assume any liability. Instead, the respective provider is always responsible for the content.
