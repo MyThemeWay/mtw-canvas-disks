@@ -13,11 +13,13 @@ https://user-images.githubusercontent.com/16251546/146669386-89b3ad17-6424-47a3-
 
 ## Usage
 
-Exchangeable WebGL canvas header for the [MyThemeWay](https://github.com/MyThemeWay "Go there") Website-Boilerplates:
+Exchangeable WebGL canvas header as an animated 3D background for the [MyThemeWay](https://github.com/MyThemeWay "Go there") Website-Boilerplates:
 
 <a href="https://github.com/mythemeway" title="Explore this" target="_blank"><img src="https://i.redd.it/txxr1z113ib61.gif" /></a>
 
-See: [How to swap a WebGL header](https://sitdisch.github.io/mythemeway/2020/11/01/dark-particle.html#exchanging_procedure "Go there")
+#### <b>Explore</b>: [Demo](https://mythemeway.github.io/mtw-canvas-disks/ "Check it out") with Website-Boilerplate [Dark-Particle v4.0](https://github.com/MyThemeWay/Dark-Particle "Check it out")
+
+> <b>Note</b>: WebGL canvas headers can make your CPU sweat, but it gets colder as you scroll down :wink:
 
 ## Other WebGL Headers
 
@@ -55,6 +57,8 @@ https://user-images.githubusercontent.com/16251546/146669441-251d9545-0164-442b-
 
 </td>
 </table>
+
+> <b>See</b>: [How to swap a WebGL header](https://sitdisch.github.io/mythemeway/2020/11/01/dark-particle.html#exchanging_procedure "Go there")
 
 ## Appendix
 ### Note on protected brand names and logos
