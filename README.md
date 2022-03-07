@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/16251546/146669386-89b3ad17-6424-47a3-
 
 E.&nbsp;g. as an animated 3D background
 
-### Directory: [boilerplate-canvas](https://github.com/MyThemeWay/mtw-canvas-disks/boilerplate-canvas "Check it out")
+### Directory: [boilerplate-canvas](https://github.com/MyThemeWay/mtw-canvas-disks/tree/main/boilerplate-canvas "Check it out")
 
 In this directory, you will find the files for the pure background. You can quickly and easily adapt the GLSLX shader files with [mtw-boilerplate-canvas](https://github.com/mythemeway/mtw-boilerplate-canvas "Check it out") or embed the already minimized canvas bundles directly on a website.
 
@@ -50,17 +50,17 @@ There are two types of minimized bundles available. One contains <a href="https:
 <tr align="center">
 	<th><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Check it out" target="_blank">disks</a></th>
 	<td>
-		<a href="https://github.com/MyThemeWay/mtw-canvas-disks/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img src="https://img.shields.io/github/size/mythemeway/mtw-canvas-disks/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-disks/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img src="https://img.shields.io/github/size/mythemeway/mtw-canvas-disks/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen" /></a>
 	</td>
 	<td>
-		<a href="https://github.com/MyThemeWay/mtw-canvas-disks/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img src="https://img.shields.io/github/size/mythemeway/mtw-canvas-disks/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-disks/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img src="https://img.shields.io/github/size/mythemeway/mtw-canvas-disks/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred" /></a>
 	</td>
 </tr>
 </table>
 
 > <b>Note</b>: Badges are clickable and linked to the corresponding minimized bundle.
 
-### Directory: [boilerplate-website](https://github.com/MyThemeWay/mtw-canvas-disks/boilerplate-website "Check it out")
+### Directory: [boilerplate-website](https://github.com/MyThemeWay/mtw-canvas-disks/tree/main/boilerplate-website "Check it out")
 
 In this directory, you will find the files for the exchangeable WebGL canvas headers of the [MyThemeWay](https://github.com/MyThemeWay "Go there") Website-Boilerplates:
 
