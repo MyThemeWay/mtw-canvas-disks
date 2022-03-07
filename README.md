@@ -1,4 +1,4 @@
-# MTW-CANVAS-DISKS
+<h1 align="center">MTW-CANVAS-DISKS</h1>
 
 <table>
 <td align="center">
@@ -9,19 +9,66 @@ https://user-images.githubusercontent.com/16251546/146669386-89b3ad17-6424-47a3-
 </td>
 </table>
 
-> <b>Note</b>: Fragment shader is based on [CoordSys - intersection](https://www.shadertoy.com/view/lsfGDB "Check it out") [License: [MIT](https://www.shadertoy.com/view/lsfGDB "Go there"); Copyright: ©️ 2013 Inigo Quilez; Changes: made]
+### Note:
+> * Preview shows the [boilerplate-website](#directory-boilerplate-website "Check it out") usage
+> * Fragment shader is based on [CoordSys - intersection](https://www.shadertoy.com/view/lsfGDB "Check it out") [License: [MIT](https://www.shadertoy.com/view/lsfGDB "Go there"); Copyright: ©️ 2013 Inigo Quilez; Changes: made]
 
-## Usage
+## | Usage
 
-Exchangeable WebGL canvas header as an animated 3D background for the [MyThemeWay](https://github.com/MyThemeWay "Go there") Website-Boilerplates:
+E.&nbsp;g. as an animated 3D background
+
+### Directory: [boilerplate-canvas](https://github.com/MyThemeWay/mtw-canvas-disks/boilerplate-canvas "Check it out")
+
+In this directory, you will find the files for the pure background. You can quickly and easily adapt the GLSLX shader files with [mtw-boilerplate-canvas](https://github.com/mythemeway/mtw-boilerplate-canvas "Check it out") or embed the already minimized canvas bundles directly on a website.
+
+#### Embed via [jsDelivr](https://github.com/jsdelivr/jsdelivr "Check it out")
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/mythemeway/mtw-canvas-disks/boilerplate-canvas/twgl/canvas.bundle.min.js"></script>
+<canvas id="mtw-canvas" style="width:100vw;height:100vh;left:0;top:0;position:fixed;"></canvas>
+```
+
+#### Self Hosting
+
+```html
+<script src="./canvas.bundle.min.js"></script>
+<canvas id="mtw-canvas" style="width:100vw;height:100vh;left:0;top:0;position:fixed;"></canvas>
+```
+
+> <b>Note</b>: WebGL canvases can make your CPU sweat. For the environment, stop the requestAnimationFrame loop when the canvas isn't visible <b>#GreenCoding</b>. See my [website-boilerplate](https://github.com/MyThemeWay/Dark-Particle/blob/master/src/canvas/mtw-canvas-disks/main.js "Check it out") for an example.
+
+#### <a href="https://github.com/greggman/twgl.js" title="Check it out" target="_blank">TWGL</a> or <a href="https://github.com/mrdoob/three.js" title="Check it out" target="_blank">three.js</a>
+
+There are two types of minimized bundles available. One contains <a href="https://github.com/greggman/twgl.js" title="Check it out" target="_blank">TWGL</a> and one contains <a href="https://github.com/mrdoob/three.js" title="Check it out" target="_blank">three.js</a> instead. I recommend using the TWGL bundle because it is much smaller as you can see in the table below. 
+
+<table>
+<tr>
+	<th>Bundle Sizes</th>
+	<th><a href="https://github.com/greggman/twgl.js" title="Check it out" target="_blank">TWGL</a></th>
+	<th><a href="https://github.com/mrdoob/three.js" title="Check it out" target="_blank">three.js</a></th>
+</tr>
+<tr align="center">
+	<th><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Check it out" target="_blank">disks</a></th>
+	<td>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-disks/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img src="https://img.shields.io/github/size/mythemeway/mtw-canvas-disks/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen" /></a>
+	</td>
+	<td>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-disks/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img src="https://img.shields.io/github/size/mythemeway/mtw-canvas-disks/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred" /></a>
+	</td>
+</tr>
+</table>
+
+> <b>Note</b>: Badges are clickable and linked to the corresponding minimized bundle.
+
+### Directory: [boilerplate-website](https://github.com/MyThemeWay/mtw-canvas-disks/boilerplate-website "Check it out")
+
+In this directory, you will find the files for the exchangeable WebGL canvas headers of the [MyThemeWay](https://github.com/MyThemeWay "Go there") Website-Boilerplates:
 
 <a href="https://github.com/mythemeway" title="Explore this" target="_blank"><img src="https://i.redd.it/txxr1z113ib61.gif" /></a>
 
 #### <b>Explore</b>: [Demo](https://mythemeway.github.io/mtw-canvas-disks/ "Check it out") with Website-Boilerplate [Dark-Particle v4.0](https://github.com/MyThemeWay/Dark-Particle "Check it out")
 
-> <b>Note</b>: WebGL canvas headers can make your CPU sweat, but it gets colder as you scroll down :wink:
-
-## Other WebGL Headers
+## | Other WebGL Canvases
 
 <table>
 <td align="center" width="500px">
@@ -58,9 +105,7 @@ https://user-images.githubusercontent.com/16251546/146669441-251d9545-0164-442b-
 </td>
 </table>
 
-> <b>See</b>: [How to swap a WebGL header](https://sitdisch.github.io/mythemeway/2020/11/01/dark-particle.html#exchanging_procedure "Go there")
-
-## Appendix
+## | Appendix
 ### Note on protected brand names and logos
 > * The use of protected brand names, trade names, utility models and brand logos on this website does not constitute an infringement of copyright; rather, it serves as an illustrative note. Even if this is not marked as such at the respective points, the corresponding legal provisions always apply.
 > * The brand names and logos used are the property of their respective owners and are subject to their copyright provisions.
