@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/16251546/146669386-89b3ad17-6424-47a3-
 
 ## | Usage
 
-E.&nbsp;g. as an animated 3D background
+E.&nbsp;g. as a 3D animated background 
 
 ### Directory: [boilerplate-canvas](https://github.com/MyThemeWay/mtw-canvas-disks/tree/main/boilerplate-canvas "Check it out")
 
@@ -24,15 +24,15 @@ In this directory, you will find the files for the pure background. You can quic
 #### Embed via [jsDelivr](https://github.com/jsdelivr/jsdelivr "Check it out")
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/mythemeway/mtw-canvas-disks/boilerplate-canvas/twgl/canvas.bundle.min.js"></script>
 <canvas id="mtw-canvas" style="width:100vw;height:100vh;left:0;top:0;position:fixed;"></canvas>
+<script src="https://cdn.jsdelivr.net/gh/mythemeway/mtw-canvas-disks/boilerplate-canvas/twgl/canvas.bundle.min.js"></script>
 ```
 
 #### Self Hosting
 
 ```html
-<script src="./canvas.bundle.min.js"></script>
 <canvas id="mtw-canvas" style="width:100vw;height:100vh;left:0;top:0;position:fixed;"></canvas>
+<script src="./canvas.bundle.min.js"></script>
 ```
 
 > <b>Note</b>: WebGL canvases can make your CPU sweat. For the environment, stop the requestAnimationFrame loop when the canvas isn't visible <b>#GreenCoding</b>. See my [website-boilerplate](https://github.com/MyThemeWay/Dark-Particle/blob/master/src/canvas/mtw-canvas-disks/main.js "Check it out") for an example.
@@ -50,10 +50,10 @@ There are two types of minimized bundles available. One contains <a href="https:
 <tr align="center">
 	<th><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Check it out" target="_blank">disks</a></th>
 	<td>
-		<a href="https://github.com/MyThemeWay/mtw-canvas-disks/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img src="https://img.shields.io/github/size/mythemeway/mtw-canvas-disks/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-disks/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" src="https://img.shields.io/github/size/mythemeway/mtw-canvas-disks/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen" /></a>
 	</td>
 	<td>
-		<a href="https://github.com/MyThemeWay/mtw-canvas-disks/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img src="https://img.shields.io/github/size/mythemeway/mtw-canvas-disks/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-disks/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" src="https://img.shields.io/github/size/mythemeway/mtw-canvas-disks/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred" /></a>
 	</td>
 </tr>
 </table>
