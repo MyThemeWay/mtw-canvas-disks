@@ -32,7 +32,7 @@ In this directory, you will find the files for the pure background. You can quic
 
 ```html
 <canvas id="mtw-canvas" style="width:100vw;height:100vh;left:0;top:0;position:fixed;"></canvas>
-<script src="https://cdn.jsdelivr.net/gh/mythemeway/mtw-canvas-disks@0.0.1/boilerplate-canvas/twgl/canvas.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/mythemeway/mtw-canvas-disks@0.0.2/boilerplate-canvas/twgl/canvas.bundle.min.js"></script>
 ```
 
 #### Self Hosting
